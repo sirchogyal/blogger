@@ -1,0 +1,20 @@
+body {
+      background: #e483fc;
+}
+
+html {
+   position:absolute;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -50%);   
+}
+
+.date {
+      padding: 15px;
+      font-family: Arial;
+      font-size: 2em;
+      font-weight: bold;
+      color: white;
+      text-align: center;
+      letter-spacing: 3px;
+}
